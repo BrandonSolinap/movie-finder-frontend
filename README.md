@@ -39,7 +39,7 @@ The application will open at http://localhost:5173.
 ## API Integration
 This frontend is designed to work with a dedicated backend API server that handles all TMDB API requests securely. The backend repository can be found here: movie-finder-backend.
 
-Project Structure
+## Project Structure
 text
 movie-finder-frontend/
 ├── src/
@@ -49,7 +49,7 @@ movie-finder-frontend/
 ├── package.json
 └── README.md
 
-License
+## License
 This project is licensed under the MIT License.
 
 
